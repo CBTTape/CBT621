@@ -1,0 +1,13 @@
+2023-08-06 05:36:51.621781 - Initialized conversion of CBT621
+2023-08-06 05:36:51.737176 - Received CBT.V505.FILE621.PDS from FILE621.XMI 
+2023-08-06 05:36:51.739998 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:36:51.741164 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:36:51.742236 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/$$NOTE2
+2023-08-06 05:36:51.743272 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/$$NOTE3
+2023-08-06 05:36:51.744284 - Found @FILE621.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/@FILE621
+2023-08-06 05:36:51.745275 - Found @README.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/@README
+2023-08-06 05:36:51.746324 - Found NPFIXASM.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/NPFIXASM
+2023-08-06 05:36:51.747336 - Found NPFIXASO.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/NPFIXASO
+2023-08-06 05:36:51.748259 - Found NPFIXJCL.jcl (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/NPFIXJCL
+2023-08-06 05:36:51.749248 - Found NPFIXREX.rexx (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/NPFIXREX
+2023-08-06 05:36:51.750307 - Found NPFIXUST.txt (text/plain) in CBT.V505.FILE621.PDS, moved to PDS/NPFIXUST
